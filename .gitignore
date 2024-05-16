@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Forntend/React/node_modules
+/Forntend/React/package.json
+/Forntend/React/ott-spa/.vite/deps_temp_24d6576d/package.json
+/Forntend/React/package-lock.json
+/Forntend/React/ott-spa/package-lock.json
+/Forntend/React/ott-spa/package.json
